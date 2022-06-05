@@ -1,0 +1,11 @@
+@import-normalize;
+
+:root {
+  --color-primary: #00bcd4;
+  --color-secondary: #fafafa;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
